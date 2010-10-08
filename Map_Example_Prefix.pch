@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Map Example' target in the 'Map Example' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
